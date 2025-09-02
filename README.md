@@ -22,9 +22,9 @@ I enjoy building robust web apps using **Next.js, Prisma, and PostgreSQL**, whil
 
 ## 🔥 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=TON_PSEUDO&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wassim&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassim&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=wassim&theme=radical)
 
 ---
 
