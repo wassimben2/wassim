@@ -1,21 +1,35 @@
-# wassim
 # Hi there 👋
 
-I'm a **computer science student** with a passion for **backend development** and **AI**.  
-I love building robust APIs, discovering new algorithms, network protocols and data science challenges.
+I'm **Wassim**, an 18-year-old **Computer Science student** in my 2nd year of a Bachelor's degree at **USTHB** (University of Science and Technology Houari Boumediene).  
+I’m passionate about **fullstack development**, **databases**, and **low-level programming**.  
+I enjoy building robust web apps using **Next.js, Prisma, and PostgreSQL**, while also strengthening my skills in **C and C++**.
 
 ---
 
-### 🔧 Languages and Tools :
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-...
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
 ---
 
-### 🔥 My Stats :
+## 🔥 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soapiane&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soapiane&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=TON_PSEUDO&theme=radical)
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced **Next.js** & fullstack development  
+- **Database design & optimization** (PostgreSQL + Prisma)  
+- Improving low-level programming in **C/C++**  
